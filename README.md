@@ -1,7 +1,7 @@
 # Q-Learning-Algorithm
 
 Q-learning is a reinforcement learning algorithm.
-
+[jupyter-notebook online reader](http://nbviewer.jupyter.org/github/bailiqun/qlearning/blob/master/Q-Learning-Get-Started.ipynb)
 ## Basic
 
 - [Q-learning, Wikipedia](https://en.wikipedia.org/wiki/Q-learning)
